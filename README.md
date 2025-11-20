@@ -3,9 +3,13 @@ The objective is to build a recommendation system based on restaurant data provi
 
 By the end of this project, you will:
 1)Perform data cleaning and preprocessing.
+
 2)Encode categorical features using One-Hot Encoding.
+
 3)Apply clustering or similarity-based methods for recommendations.
+
 4)Build a Streamlit application to showcase recommendations.
+
 
 
 **Business Use Cases:**
